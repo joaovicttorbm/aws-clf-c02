@@ -99,9 +99,9 @@ Computação em nuvem é a entrega de recursos de TI (servidores, armazenamento,
 
 ## 5. Recursos de Suporte e Documentação (Support and Resources)
 
-- **AWS Whitepapers**: Documentos técnicos e guias de boas práticas.
-- **AWS Documentation**: A documentação oficial com detalhes sobre serviços e APIs.
-- **AWS Training and Certification**: Recursos de treinamento e certificação para aprofundar seu conhecimento.
+- **AWS Whitepapers**: Documentos técnicos e guias de boas práticas. **(Não caiu no simulado)**
+- **AWS Documentation**: A documentação oficial com detalhes sobre serviços e APIs. **(Não caiu no simulado)**
+- **AWS Training and Certification**: Recursos de treinamento e certificação para aprofundar seu conhecimento. **(Não caiu no simulado)**
 - **AWS Marketplace**: Plataforma para comprar e vender soluções de software de terceiros.
 
 ---
@@ -109,7 +109,7 @@ Computação em nuvem é a entrega de recursos de TI (servidores, armazenamento,
 
 ### Dicas Finais
 
-- Mantenha o foco nas **principais tecnologias** e **serviços** da AWS (EC2, S3, RDS, Lambda, etc.).
+- Mantenha o foco nas **principais tecnologias** e **serviços** da AWS (EC2, S3, RDS, Lambda.).
 - Compreenda o **modelo de responsabilidade compartilhada** e a importância da **segurança** na nuvem.
 - Revise as **ferramentas de gerenciamento** de custos e os **modelos de preço** da AWS.
 - Utilize **materiais de estudo** como a documentação oficial e **simulados** para garantir a preparação.
