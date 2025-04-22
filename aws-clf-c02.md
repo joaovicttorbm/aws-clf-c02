@@ -109,7 +109,7 @@ Computação em nuvem é a entrega de recursos de TI (servidores, armazenamento,
 
 ### Dicas Finais
 
-- Mantenha o foco nas **principais tecnologias** e **serviços** da AWS (EC2, S3, RDS, Lambda.).
+- Mantenha o foco nas **principais tecnologias** e **serviços** da AWS (EC2, S3, RDS, Lambda, DynamoDB.).
 - Compreenda o **modelo de responsabilidade compartilhada** e a importância da **segurança** na nuvem.
 - Revise as **ferramentas de gerenciamento** de custos e os **modelos de preço** da AWS.
 - Utilize **materiais de estudo** como a documentação oficial e **simulados** para garantir a preparação.
