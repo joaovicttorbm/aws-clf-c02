@@ -106,16 +106,6 @@ Computação em nuvem é a entrega de recursos de TI (servidores, armazenamento,
 
 ---
 
-## 6. Práticas Recomendadas para Estudo
-
-### Estratégias de Estudo
-
-- **Simulados de Exame**: Use ferramentas como Whizlabs e Tutorial Dojo para se preparar.
-- **Revisão de FAQs**: Estude as perguntas frequentes dos principais serviços AWS.
-- **Prática com AWS Free Tier**: Utilize a camada gratuita da AWS para experimentar recursos e aprender na prática.
-- **Cursos Online**: Acompanhe vídeos e bootcamps online para aprofundar o conhecimento.
-
----
 
 ### Dicas Finais
 
